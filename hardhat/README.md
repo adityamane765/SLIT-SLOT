@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+I have created a slot machine which uses sart contract for its operation. I took help from CHatGpt for the frontend part.
 
 Try running some of the following tasks:
 
