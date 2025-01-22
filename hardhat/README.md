@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-I have created a slot machine which uses sart contract for its operation. I took help from CHatGpt for the frontend part.
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
 
@@ -9,5 +9,5 @@ npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js --network sepolia 
+npx hardhat ignition deploy ./ignition/modules/Lock.js --network sepolia
 ```
