@@ -8,7 +8,7 @@ git clone https://github.com/adityamane765/SLIT-SLOT.git
 ```
 ---
 ### 2. Change the directory
-Change the directory to /SLIT-SLOT
+Change the directory to /SLIT-SLOT: cd SLIT-SLOT
 Then do npm run dev
 Vite will start
 
