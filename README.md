@@ -5,7 +5,6 @@ Running it:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/adityamane765/SLIT-SLOT.git
-cd ChainNotarize
 ```
 ---
 ### 2. Change the directory
